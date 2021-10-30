@@ -1,6 +1,8 @@
+# Data Structures and Algorithms in Python Hardcover – 5 July 2013
+# by Roberto Tamassia (Author), Michael H. Goldwasser (Author) Solutions
 # 1.12 Exercise page 51 
 ---------------------
-# ---R-1.1
+# ---R-1.1 
 
 def is_multiple(n,m):
   try:
